@@ -278,5 +278,5 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 * **Ademileke12** <[Ademileke](https://github.com/Ademileke12)>
-* **Samie Azad** <[vickky9ice](https://github.com/vickky9ice)>
+* **Adeboye Victor** <[vickky9ice](https://github.com/vickky9ice)>
 
